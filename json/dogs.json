@@ -1,0 +1,16 @@
+{
+	 "dogs" : [
+		{
+			"type": "Pug", 
+			"image":"img/pug.jpeg"
+			},
+		{
+			"type": "German Shepherd", 
+			"image":"img/germanshepherd.jpg"
+		  },
+		{
+			"type": "Sheltie", 
+			"image":"img/sheltie.jpeg"
+		}
+	]
+}
